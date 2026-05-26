@@ -2,6 +2,7 @@
 
 Este repositorio contiene el prototipo funcional de escritorio desarrollado para la asignatura **Análisis de Sistemas II (Ciclo I-2026)**. El objetivo principal es demostrar la implementación de controles de seguridad y segregación de funciones mediante un inicio de sesión estructurado por roles.
 
+![Pantalla de Login Funcionando](portada%20Login.png)
 ## 👥 Integrantes del Proyecto
 * **Isaac Maldonado**  MJ24008
 * **Tatiana Martínez** MC20008
