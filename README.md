@@ -15,12 +15,12 @@ Este repositorio contiene el prototipo funcional de escritorio desarrollado para
   * **Estudiante/Tutor:** Vista restringida de **solo lectura** para la consulta de récord de notas y porcentaje de asistencia.
 
 ## 🛠️ Tecnologías Utilizadas
-* **Lenguaje:** Python 3.x
-* **Interfaz Gráfica:** Tkinter / TTK (Librería nativa)
+* **Lenguaje:** Python 3
+* **Interfaz Gráfica:** Tkinter / TTK 
 
 ## 🚀 Instrucciones de Ejecución
-1. Asegúrate de tener instalado Python en tu equipo.
-2. Descarga el archivo `Sistema_Academico.py` y el archivo `logo.png` en la misma carpeta.
+1. Asegúrate de tener instalado Python en tu equipo (Visual Studio Code)
+2. Descarga el archivo `Sistema_Academico.py` y el archivo `logo2.png` en la misma carpeta.
 3. Ejecuta el script desde la terminal o tu IDE favorito usando:
    ```bash
    python Sistema_Academico.py
