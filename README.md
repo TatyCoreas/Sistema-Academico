@@ -8,7 +8,7 @@ Este repositorio contiene el prototipo funcional de escritorio desarrollado para
 
 ## 🔐 Procesos Clave Implementados
 * **Control de Acceso (Login):** Validación de campos obligatorios y enrutamiento seguro según el rol seleccionado.
-* ![Pantalla de Login Funcionando](portada login.png)
+* ![Pantalla de Login Funcionando](portada%20Login.png)
 * **Seguridad Visual:** Ocultamiento de credenciales en pantalla utilizando enmascaramiento de caracteres (`show="*"`).
 * **Vistas por Roles (RBAC):**
   * **Administrador:** Acceso completo al módulo de registro y control global de usuarios.
