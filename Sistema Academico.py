@@ -269,9 +269,9 @@ if os.path.exists(ruta_logo):
         lbl_logo.image = img_redimensionada
         lbl_logo.pack()
     except:
-        tk.Label(frame_logo, text="🏫", font=("Segoe UI", 40), bg="#2d5f8b", fg="white").pack()
+        tk.Label(frame_logo, text="", font=("Segoe UI", 40), bg="#2d5f8b", fg="white").pack()
 else:
-    tk.Label(frame_logo, text="🏫", font=("Segoe UI", 40), bg="#2d5f8b", fg="white").pack()
+    tk.Label(frame_logo, text="", font=("Segoe UI", 40), bg="#2d5f8b", fg="white").pack()
 
 tk.Label(card, text="Bienvenidos al Sistema UES", font=("Century Gothic", 15, "bold"), bg="#2d5f8b", fg="white").pack(pady=(10, 20))
 
